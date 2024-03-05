@@ -1,7 +1,0 @@
-all:
-
-clean:
-
-fclean:
-
-.PHONY: all clean fclean
